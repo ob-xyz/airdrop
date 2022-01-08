@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <div className={styles.s1}>
             <h1>Airdrop</h1>
         </div>
-        <h2>Payment processing for crypto punks, people, and communities</h2>
+        <h2>Payment processing for crypto punks</h2>
       </main>
     </div>
   )
