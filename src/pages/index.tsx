@@ -15,8 +15,9 @@ const Home: NextPage = () => {
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
-            <h1>airdrop</h1>
+            <h1>Airdrop</h1>
         </div>
+        <h2>Payment processing for crypto punks, people, and communities</h2>
       </main>
     </div>
   )
