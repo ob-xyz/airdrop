@@ -1,6 +1,6 @@
 @import 
 '../global/scss/Fonts.scss',
-'../global//scss/Colors.scss';
+'../global/scss/Colors.scss';
 
 .main {
   padding-top: 6rem;
@@ -16,18 +16,18 @@
       text-align: center;
       font-family: 'bold';
       font-weight: 900;
-      font-size: 3rem;
-      color:$yellow;
+      font-size: 3.5rem;
+      color:$dark-purple;
       max-width:25rem;
     }
     .batchimgs{
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
-      min-height: 45vh;
+      min-height: 42.5vh;
       .img{
         position: relative;
-        margin:0 3rem;
+        margin:-.5rem 1.25rem;
         transform-origin: 50% 50%;
         animation: updown 10s forwards infinite;
         @keyframes updown{
@@ -49,38 +49,28 @@
         }
       }
       .img:nth-child(1){
-        top:-1rem;
-        left:2.5rem;
         animation: updown 8s forwards infinite;
       }
       .img:nth-child(2){
-        top:-2rem;
         animation: updown 7s forwards infinite;
       }
       .img:nth-child(3){
-        top:-1rem;
-        right:3rem;
         animation: updown 12s forwards infinite;
       }
       .img:nth-child(4){
-        left:1rem;
         animation: updown 9s forwards infinite;
     
       }
       .img:nth-child(5){
-        top:-1rem;
         animation: updown 6s forwards infinite;
       }
       .img:nth-child(6){
-        right:2rem;
         animation: updown 10s forwards infinite;
       }
       .img:nth-child(7){
-        left:5rem;
         animation: updown 8s forwards infinite;
       }
       .img:nth-child(8){
-        left:4rem;
         animation: updown 13s forwards infinite;
       }
     }

@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
-import styles from '../../../styles/scss/Header.module.scss'
+import styles from '../../../../styles/shared/components/elements/headers/Header.module.scss'
 
 const Header: NextPage = () => {
   return (
@@ -9,7 +9,7 @@ const Header: NextPage = () => {
                 <Link href="/">
                     <a className={styles.subheader}>
                     <Image
-                        src="/assets/img/logo/airdrop-logoyellow.png"
+                        src="/assets/img/logo/airdrop-logo.png"
                         alt="airdrop logo"
                         width={40}
                         height={50}
