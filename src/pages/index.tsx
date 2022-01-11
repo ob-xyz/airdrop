@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
-        <h2>A simple way to send crypto</h2>
+        <h2>A simple way to send money</h2>
         <div className={styles.batchimgs}>
           <div className={styles.img}>
           <Image
