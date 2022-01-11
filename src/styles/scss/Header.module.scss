@@ -5,25 +5,37 @@
 // MAIN HEADER NAV BAR //
 .header {
     position: fixed;
+    z-index: 99999;
     display: flex;
+    justify-content: center;
     width: 100vw;
-    height:5.5rem;
-    background: $dark-purple;
-    .imglogo{
-      display: flex;
-      align-items: center;
-      padding:0 1.25rem;
-      &:hover{
-        transform-origin: 50% 0;
-        animation: swinging 4s ease-in-out forwards infinite;
+    height:6rem;
+    background: $black;
+      .subheader{
+        display: flex;
+        align-items: center;
+          h1{
+            margin: 0 .65rem;
+            text-align: center;
+            font-family: 'bold';
+            font-weight: 900;
+            font-size: 1.2rem;
+            animation: none;
+            color:$dark-purple;
+            background-color: $yellow;
+            border-radius: .25rem;
+            padding:.35rem .40rem .35rem .5rem;
+        }
+        &:hover{
+          transform-origin: 50% 0;
+          animation: swing 3.5s ease-in-out forwards infinite;
+          }
+        @keyframes swing{
+          0%{transform: rotate(0deg);}
+          25%{transform: rotate(-4deg)}
+          50%{transform: rotate(4deg);}
+          75%{transform: rotate(-4deg);}
+          100%{transform: rotate(0deg)}
       }
-      }
-    @keyframes swinging{
-        0%{transform: rotate(0deg);}
-        25%{transform: rotate(-5deg)}
-        50%{transform: rotate(5deg);}
-        75%{transform: rotate(0deg);}
-        100%{transform: rotate(0deg)}
-        
     }
     }

@@ -3,36 +3,117 @@
 '../global//scss/Colors.scss';
 
 .main {
-  min-height: 100vh;
-  flex: 1;
+  padding-top: 6rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   .s1{
     display: flex;
+    align-items: center;
     flex-direction: column;
-      h1{
-          text-align: center;
-          font-family: 'medium';
-          font-weight: 900;
-          font-size: 1.5rem;
-          animation: none;
-          color:$dark-purple;
-          background-color: $yellow;
-          border-radius: .25rem;
-          padding:.55rem .85rem .55rem 1rem;
+    width:35rem;
+    h2{
+      text-align: center;
+      font-family: 'bold';
+      font-weight: 900;
+      font-size: 3rem;
+      color:$yellow;
+      max-width:25rem;
+    }
+    .batchimgs{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      min-height: 45vh;
+      .img{
+        position: relative;
+        margin:0 3rem;
+        transform-origin: 50% 50%;
+        animation: updown 10s forwards infinite;
+        @keyframes updown{
+          0% {
+            transform:  translate(2rem,6rem)  ;
+          }
+          24% {
+            transform:  translate(2rem,6rem)  ;
+          }
+          50% {
+            transform:  translate(2rem,3rem)  ;
+          }
+          74% {
+            transform:  translate(2rem,6rem)  ;
+          }
+          100% {
+            transform:  translate(2rem,6rem)  ;
+          }
+        }
+      }
+      .img:nth-child(1){
+        top:-1rem;
+        left:2.5rem;
+        animation: updown 8s forwards infinite;
+      }
+      .img:nth-child(2){
+        top:-2rem;
+        animation: updown 7s forwards infinite;
+      }
+      .img:nth-child(3){
+        top:-1rem;
+        right:3rem;
+        animation: updown 12s forwards infinite;
+      }
+      .img:nth-child(4){
+        left:1rem;
+        animation: updown 9s forwards infinite;
+    
+      }
+      .img:nth-child(5){
+        top:-1rem;
+        animation: updown 6s forwards infinite;
+      }
+      .img:nth-child(6){
+        right:2rem;
+        animation: updown 10s forwards infinite;
+      }
+      .img:nth-child(7){
+        left:5rem;
+        animation: updown 8s forwards infinite;
+      }
+      .img:nth-child(8){
+        left:4rem;
+        animation: updown 13s forwards infinite;
+      }
     }
   }
-  h2{
-    padding:1rem 0;
-    text-align: center;
-    font-family: 'medium';
-    font-weight: 900;
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-    animation: none;
-    color:$white;
-    max-width:25rem;
+  .s2{
+    display: flex;
+    justify-content: center;
+    margin-top: 7rem;
+    padding:2rem 0;
+    height: 150vh;
+    width:100%;
+    background:white;
   }
 }
+
+@media screen 
+  and (min-width: 25rem)
+  and (max-width: 80.75rem) { 
+    .s1{
+      h2{
+        font-size: 2rem;
+      }
+      .batchimgs{
+        min-height: 45vh;
+      }
+    }
+  
+  .s2{
+    margin-top: 7rem;
+    padding:2rem 0;
+    height: 150vh;
+    width:100%;
+    background:white;
+  }
+}
+

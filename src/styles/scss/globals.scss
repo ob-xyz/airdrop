@@ -13,7 +13,7 @@ body {
   margin: 0;
   width:100%;
   min-height: 100vh;
-  background-color: $dark-purple;
+  background-color: $black;
 }
 body {
   overflow-y: scroll;
@@ -21,8 +21,7 @@ body {
   user-select: none;
 }
 main {
-  padding-top:5.5rem; // matches min-height of Header component.
-  background-color: $dark-purple;
+  background-color: $black;
 }
 img {
   display: block;
