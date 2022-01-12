@@ -14,6 +14,7 @@ const Header: NextPage = () => {
                         width={40}
                         height={50}
                         priority={true}
+                        loading='eager'
                     />
                     <h1>airdrop</h1>
                     </a>
