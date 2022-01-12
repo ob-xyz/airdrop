@@ -110,7 +110,7 @@ const Cookies = () => (
                 Questions?
               </h1>
               <p>
-                Please contact us at whril.com/support
+                Please contact us at airdrop.is/support
                 if you have any questions about our practices or this Cookie Policy.
               </p>
             </div>

@@ -22,7 +22,7 @@ const Terms = () => (
           <div className="terms">
             <div className="text">
               <p>
-                Welcome to Whril! 
+                Welcome to Airdrop! 
               </p>
               <p>
                 We’ve drafted these Terms of Service (which we call the “Terms”) 
@@ -30,11 +30,11 @@ const Terms = () => (
                 as a user of our Services. Although we have tried our best to strip 
                 the legalese from the Terms, there are places where they may still 
                 read like a traditional contract. There’s a good reason for that: 
-                these Terms form a legally binding contract between you and Whril Inc. (“Whril”). 
+                these Terms form a legally binding contract between you and Airdrop Inc. (“Airdrop”). 
                 So please read them carefully.
               </p>
               <p>
-                By using Whril or any of our other products or services that are 
+                By using Airdrop or any of our other products or services that are 
                 subject to these Terms (which we refer to collectively as the “Services”), 
                 you agree to the Terms. Of course, if you don’t agree with them, then don’t use the Services.
               </p>
@@ -45,9 +45,9 @@ const Terms = () => (
               </p>
               <p>
                 ARBITRATION NOTICE: THESE TERMS CONTAIN AN ARBITRATION CLAUSE A LITTLE LATER ON. 
-                EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT ARBITRATION CLAUSE, YOU AND WHRIL 
+                EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT ARBITRATION CLAUSE, YOU AND AIRDROP 
                 AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, 
-                AND YOU AND WHRIL WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE 
+                AND YOU AND AIRDROP WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE 
                 ARBITRATION. YOU HAVE THE RIGHT TO OPT OUT OF ARBITRATION AS EXPLAINED IN THAT ARBITRATION CLAUSE.
               </p>
             </div>
@@ -70,7 +70,7 @@ const Terms = () => (
               <ul>
                 <li>
                   <p>
-                    you can form a binding contract with Whril;
+                    you can form a binding contract with Airdrop;
                   </p>
                 </li>
                 <li>
@@ -96,7 +96,7 @@ const Terms = () => (
                 entity (and all references to “you” and “your” in these Terms will mean 
                 both you as the end user and that business or entity). If you are using 
                 the Services on behalf of an entity of the U.S. Government, you agree to 
-                the Amendment to Whril Inc. Terms of Service for U.S. Government Users.
+                the Amendment to Airdrop Inc. Terms of Service for U.S. Government Users.
               </p>
             </div>
           </div>
@@ -106,12 +106,12 @@ const Terms = () => (
                 2. Rights We Grant You
               </h1>
               <p>
-                As between you and us, Whril (and its licensors) is the owner of the Services, 
+                As between you and us, Airdrop (and its licensors) is the owner of the Services, 
                 including all proprietary content, information, material, software, images, 
-                text, graphics (including any Whril avatars that you may assemble using visual 
+                text, graphics (including any Airdrop avatars that you may assemble using visual 
                 elements we provide), illustrations, logos, patents, trademarks, service marks, 
                 copyrights, photographs, audio, video, music, and “look and feel” of the Services, 
-                and all related intellectual property rights. Whril grants you a worldwide, royalty-free, 
+                and all related intellectual property rights. Airdrop grants you a worldwide, royalty-free, 
                 non-assignable, non-exclusive, revocable, and non-sublicensable license to use the Services. 
                 This license is for the sole purpose of using and enjoying the Services in a way that these 
                 Terms and our policies. You may not use the Services in ways that are not authorized by these Terms. 
@@ -131,7 +131,7 @@ const Terms = () => (
                 Settings you have selected.
               </p>
               <p>
-                For all content you submit to the Services, you grant Whril and our affiliates a worldwide, 
+                For all content you submit to the Services, you grant Airdrop and our affiliates a worldwide, 
                 royalty-free, sublicensable, and transferable license to host, store, cache, use, 
                 display, reproduce, modify, adapt, edit, publish, analyze, transmit, and distribute 
                 that content. This license is for the purpose of operating, developing, providing, 
@@ -143,7 +143,7 @@ const Terms = () => (
               <p>
                 We call Moment submissions that are set to be viewable by Everyone as well as content you 
                 submit to public Services, like Public Profiles, “Public Content.” 
-                Because Public Content is inherently public, you grant Whril, our affiliates, 
+                Because Public Content is inherently public, you grant Airdrop, our affiliates, 
                 other users of the Services, and our business partners all of the same rights 
                 you grant for non-Public Content in the previous paragraph, as well as an 
                 unrestricted, worldwide, royalty-free, irrevocable, and perpetual right 
@@ -153,7 +153,7 @@ const Terms = () => (
                 Public Content (including the separate video, image, sound recording, or musical 
                 compositions contained therein) in any form and in any and all media or distribution 
                 methods, now known or later developed. When you appear in, create, upload, post, or 
-                send Public Content (including your Bitmoji), you also grant Whril, our affiliates, 
+                send Public Content (including your Bitmoji), you also grant Airdrop, our affiliates, 
                 other users of the Services, and our business partners an unrestricted, worldwide, 
                 royalty-free, irrevocable, and perpetual right and license to use the name, likeness, 
                 and voice, of anyone featured in your Public Content for commercial and non-commercial 
@@ -202,7 +202,7 @@ const Terms = () => (
                 Your privacy matters to us. You can learn how your information is handled when you use 
                 our Services by reading our 
                 {' '}
-                <a href="https://www.whril.com/privacy"> Privacy Policy</a>
+                <a href="https://www.airdrop.is/privacy"> Privacy Policy</a>
                 .
               </p>
             </div>
@@ -215,7 +215,7 @@ const Terms = () => (
               <p>
                 Much of the content on our Services is produced by users, publishers, and other third parties. 
                 Whether that content is posted publicly or sent privately, the content is the sole responsibility 
-                of the user or entity that submitted it. Although Whril reserves the right to review or remove all 
+                of the user or entity that submitted it. Although Airdrop reserves the right to review or remove all 
                 content that appears on the Services, we do not necessarily review all of it. So we cannot—and do 
                 not—guarantee that other users or the content they provide through the Services will comply with 
                 our Terms.
@@ -225,24 +225,24 @@ const Terms = () => (
           <div className="terms">
             <div className="text">
               <h1>
-                7. Respecting the Services and Whril’s Rights
+                7. Respecting the Services and Airdrop’s Rights
               </h1>
               <p>
-                You must also respect Whril's rights and adhere to any guidelines, support pages, or FAQ’s published 
-                by Whril or our affiliates. That means, among other things, you may not do, attempt to do, enable, 
+                You must also respect Airdrop's rights and adhere to any guidelines, support pages, or FAQ’s published 
+                by Airdrop or our affiliates. That means, among other things, you may not do, attempt to do, enable, 
                 or encourage anyone else to do, any of the following:
               </p>
               <ul>
                 <li>
                   <p>
                     use branding, logos, icons, user interface elements, designs, photographs, videos, or any 
-                    other materials Whril makes available via the Services, except as explicitly allowed by 
-                    these Terms, or other brand guidelines published by Whril or our affiliates;
+                    other materials Airdrop makes available via the Services, except as explicitly allowed by 
+                    these Terms, or other brand guidelines published by Airdrop or our affiliates;
                   </p>
                 </li>
                 <li>
                   <p>
-                    violate or infringe Whril’s or our affiliates’ copyrights, trademarks, or other 
+                    violate or infringe Airdrop’s or our affiliates’ copyrights, trademarks, or other 
                     intellectual property rights;
                   </p>
                 </li>
@@ -260,7 +260,7 @@ const Terms = () => (
                     create more than one account for yourself, create another account if we have already disabled 
                     your account, attempt to access the Services through unauthorized third-party applications, 
                     solicit login credentials from other users, or buy, sell, rent, or lease access to your 
-                    account, a username, Whrils, or a friend link;
+                    account, a username, Airdrops, or a friend link;
                   </p>
                 </li>
                 <li>
@@ -325,7 +325,7 @@ const Terms = () => (
                 8. Respecting Others' Rights
               </h1>
               <p>
-                Whril respects the rights of others. And so should you. You therefore may not 
+                Airdrop respects the rights of others. And so should you. You therefore may not 
                 use the Services, or enable anyone else to use the Services, in a manner 
                 that violates or infringes someone else’s rights of publicity, privacy, 
                 copyright, trademark, or other intellectual property right. When you submit 
@@ -335,20 +335,20 @@ const Terms = () => (
                 the right to make mechanical reproductions of the musical works embodied 
                 in any sound recordings, synchronize any compositions to any content, 
                 publicly perform any compositions or sound recordings, or any other 
-                applicable rights for any music not provided by Whril that you include 
+                applicable rights for any music not provided by Airdrop that you include 
                 in your content) and grant the rights and licenses contained in these 
                 Terms for your content. You also agree that you will not use or attempt 
-                to use another user’s account except as permitted by Whril or its affiliates.
+                to use another user’s account except as permitted by Airdrop or its affiliates.
               </p>
               <p>
-                Whril honors copyright laws, including the Digital Millennium Copyright Act 
+                Airdrop honors copyright laws, including the Digital Millennium Copyright Act 
                 and takes reasonable steps to expeditiously remove from our Services 
-                any infringing material that we become aware of. If Whril becomes aware 
+                any infringing material that we become aware of. If Airdrop becomes aware 
                 that a user has repeatedly infringed copyrights, we will take reasonable 
                 steps within our power to terminate the user’s account. If you believe that 
                 anything on the Services infringes a copyright that you own or control, 
                 please report it using the form accessible through this tool. Or you may 
-                file a notice with our designated agent by emailing copyright @ whril.com. 
+                file a notice with our designated agent by emailing copyright @ airdrop.is. 
                 Don’t use this email address for anything other than reporting copyright 
                 infringement, as such emails will be ignored. 
                 If you file a notice with our Copyright Agent, it must comply with 
@@ -409,7 +409,7 @@ const Terms = () => (
                 We try hard to keep our Services a safe place for all users. 
                 But we can’t guarantee it. That’s where you come in. By 
                 using the Services, you agree that you will at all times 
-                comply with these Terms, including any other policies Whril 
+                comply with these Terms, including any other policies Airdrop 
                 makes available in order to maintain the safety of the Services.
               </p>
               <p>
@@ -426,7 +426,7 @@ const Terms = () => (
                 So do not use our Services in a way that would distract you from 
                 obeying traffic or safety laws. For example, never use the Services 
                 while driving. And never put yourself or others in harm’s way 
-                just to capture a Whril.
+                just to capture a Airdrop.
               </p>
             </div>
           </div>
@@ -446,7 +446,7 @@ const Terms = () => (
                 for any other account. If you think that someone has gained 
                 access to your account, please immediately reach out to 
                 {' '}
-                <a href="mailto:support@whril.com"> Support</a>
+                <a href="mailto:support@airdrop.is"> Support</a>
                 . 
                 Any software that we provide you may automatically download and 
                 install upgrades, updates, or other new features. You may be able 
@@ -496,9 +496,9 @@ const Terms = () => (
               </p>
               <p>
                 By providing us with your mobile phone number, you agree to 
-                receive SMS messages from Whril related to the Services, 
+                receive SMS messages from Airdrop related to the Services, 
                 including about promotions, your account, and your relationship 
-                with Whril. These SMS messages may be made to your mobile phone 
+                with Airdrop. These SMS messages may be made to your mobile phone 
                 number even if your mobile phone number is registered on any 
                 state or federal Do Not Call list, or international equivalent.
               </p>
@@ -522,9 +522,9 @@ const Terms = () => (
                 If you use any Third-Party Materials made available through our Services 
                 (including Services we jointly offer with the third party), each party’s 
                 terms will govern the respective party’s relationship with you. 
-                Neither Whril nor our affiliates are responsible or liable for a third 
+                Neither Airdrop nor our affiliates are responsible or liable for a third 
                 party’s terms or actions taken under the third party’s terms. ​​Further, 
-                by using the Services, you acknowledge and agree that Whril is not 
+                by using the Services, you acknowledge and agree that Airdrop is not 
                 responsible for examining or evaluating the content, accuracy, 
                 completeness, availability, timeliness, validity, copyright 
                 compliance, legality, decency, quality or any other aspect of 
@@ -551,9 +551,9 @@ const Terms = () => (
                 do, we may not provide you with any notice beforehand.
               </p>
               <p>
-                While we hope you remain a lifelong Whriler, 
+                While we hope you remain a lifelong Airdropper, 
                 you can terminate these Terms at any time and 
-                for any reason by deleting your Whril account 
+                for any reason by deleting your Airdrop account 
                 (or, in some cases, the account associated with the 
                 applicable part of the Services you are using).
               </p>
@@ -571,7 +571,7 @@ const Terms = () => (
                 and we may reclaim your username at any time for any reason.
               </p>
               <p>
-                Regardless of who terminates these Terms, both you and Whril 
+                Regardless of who terminates these Terms, both you and Airdrop 
                 continue to be bound by Sections 3, 4 (to the extent any 
                 additional terms and conditions would, by their terms, survive), 
                 and 6 - 23 of the Terms.
@@ -585,7 +585,7 @@ const Terms = () => (
               </h1>
               <p>
                 You agree, to the extent permitted by law, to indemnify, 
-                defend, and hold harmless Whril, our affiliates, directors, 
+                defend, and hold harmless Airdrop, our affiliates, directors, 
                 officers, stockholders, employees, licensors, and agents 
                 from and against any and all complaints, charges, claims, 
                 damages, losses, costs, liabilities, and expenses 
@@ -593,7 +593,7 @@ const Terms = () => (
                 or relating in any way to: (a) your access to or use 
                 of the Services, or any products or services provided 
                 by a third party in connection with the Services, even 
-                if recommended, made available, or approved by Whril; 
+                if recommended, made available, or approved by Airdrop; 
                 (b) your content, including infringement claims related 
                 to your content; (c) your breach of these Terms or any 
                 applicable law or regulation; or (d) your negligence 
@@ -665,7 +665,7 @@ const Terms = () => (
               </h1>
               <p>
                 PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY BECAUSE THEY 
-                PROVIDE THAT YOU AND WHRIL AGREE TO RESOLVE ALL DISPUTES 
+                PROVIDE THAT YOU AND Airdrop AGREE TO RESOLVE ALL DISPUTES 
                 BETWEEN US THROUGH BINDING INDIVIDUAL ARBITRATION.
               </p>
               <ul>
@@ -675,10 +675,10 @@ const Terms = () => (
                   </h2>
                   <p>
                     In this Section 18 (the “Arbitration Agreement”), 
-                    You and Whril agree that all claims and disputes (whether contract, tort, or otherwise), 
+                    You and Airdrop agree that all claims and disputes (whether contract, tort, or otherwise), 
                     including all statutory claims and disputes, arising out of or relating to these Terms 
                     or the use of the Services that cannot be resolved in small claims court will be resolved 
-                    by binding arbitration on an individual basis, except that you and Whril are not required 
+                    by binding arbitration on an individual basis, except that you and Airdrop are not required 
                     to arbitrate any dispute in which either party seeks equitable relief for the alleged 
                     unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. 
                     To be clear: the phrase “all claims and disputes” also includes claims and disputes that 
@@ -726,11 +726,11 @@ const Terms = () => (
                   </h2>
                   <p>
                     ADR Services sets forth fees for its services, which are available at 
-                    https://www.adrservices.com/rate-fee-schedule/. If Whril is the party initiating an 
-                    arbitration against you, Whril will pay all costs associated with the arbitration, 
+                    https://www.adrservices.com/rate-fee-schedule/. If Airdrop is the party initiating an 
+                    arbitration against you, Airdrop will pay all costs associated with the arbitration, 
                     including the entire filing fee. If you are the party initiating an arbitration against 
-                    Whril, you will be responsible for the first $100 toward the nonrefundable Initial Filing Fee, 
-                    and Whril will pay the remainder of your Initial Filing fee and both parties’ Administrative Fee.
+                    Airdrop, you will be responsible for the first $100 toward the nonrefundable Initial Filing Fee, 
+                    and Airdrop will pay the remainder of your Initial Filing fee and both parties’ Administrative Fee.
                   </p>
                 </li>
                 <li>
@@ -739,7 +739,7 @@ const Terms = () => (
                   </h2>
                   <p>
                     The arbitrator will decide the jurisdiction of the arbitrator 
-                    and the rights and liabilities, if any, of you and Whril. The dispute will not be consolidated 
+                    and the rights and liabilities, if any, of you and Airdrop. The dispute will not be consolidated 
                     with any other matters or joined with any other cases or parties. The arbitrator will have the 
                     authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator 
                     will have the authority to award monetary damages and to grant any non-monetary remedy or relief 
@@ -747,7 +747,7 @@ const Terms = () => (
                     will issue a written award and statement of decision describing the essential findings and 
                     conclusions on which the award is based, including the calculation of any damages awarded. 
                     The arbitrator has the same authority to award relief on an individual basis that a judge in a 
-                    court of law would have. The award of the arbitrator is final and binding upon you and Whril.
+                    court of law would have. The award of the arbitrator is final and binding upon you and Airdrop.
                   </p>
                 </li>
                 <li>
@@ -755,12 +755,12 @@ const Terms = () => (
                     f. Waiver of Jury Trial. 
                   </h2>
                   <p>
-                    YOU AND WHRIL WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO GO 
-                    TO COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and Whril are instead electing 
+                    YOU AND AIRDROP WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO GO 
+                    TO COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and Airdrop are instead electing 
                     to have claims and disputes resolved by arbitration. Arbitration procedures are typically more 
                     limited, more efficient, and less costly than rules applicable in court and are subject to very 
-                    limited review by a court. In any litigation between you and Whril over whether to vacate or 
-                    enforce an arbitration award, YOU AND WHRIL WAIVE ALL RIGHTS TO A JURY TRIAL, and elect instead 
+                    limited review by a court. In any litigation between you and Airdrop over whether to vacate or 
+                    enforce an arbitration award, YOU AND AIRDROP WAIVE ALL RIGHTS TO A JURY TRIAL, and elect instead 
                     to have the dispute be resolved by a judge.
                   </p>
                 </li>
@@ -795,13 +795,13 @@ const Terms = () => (
                     i. Opt-out. You may opt out of this Arbitration Agreement. 
                   </h2>
                   <p>
-                    If you do so, neither you nor Whril 
-                    can force the other to arbitrate. To opt out, you must notify Whril in writing no later than 30 
+                    If you do so, neither you nor Airdrop 
+                    can force the other to arbitrate. To opt out, you must notify Airdrop in writing no later than 30 
                     days after first becoming subject to this Arbitration Agreement. Your notice must include your 
-                    name and address, your Whril username and the email address you used to set up your Whril 
+                    name and address, your Airdrop username and the email address you used to set up your Airdrop 
                     account (if you have one), and an unequivocal statement that you want to opt out of this 
                     Arbitration Agreement. You must either mail your opt-out notice to
-                    the opt-out notice to arbitration-opt-out @ whril.com.
+                    the opt-out notice to arbitration-opt-out @ airdrop.is.
                   </p>
                 </li>
                 <li>
@@ -809,7 +809,7 @@ const Terms = () => (
                     j. Small Claims Court. 
                   </h2>
                   <p>
-                    Notwithstanding the foregoing, either you or Whril may bring an 
+                    Notwithstanding the foregoing, either you or Airdrop may bring an 
                     individual action in small claims court.
                   </p>
                 </li>
@@ -819,7 +819,7 @@ const Terms = () => (
                   </h2>
                   <p>
                     This Arbitration Agreement will survive the 
-                    termination of your relationship with Whril.
+                    termination of your relationship with Airdrop.
                   </p>
                 </li>
               </ul>
@@ -832,13 +832,13 @@ const Terms = () => (
                 19. Exclusive Venue
               </h1>
               <p>
-                To the extent that these Terms allow you or Whril to initiate litigation in a court, 
-                both you and Whril agree that all claims and disputes (whether contract, tort, or otherwise), 
+                To the extent that these Terms allow you or Airdrop to initiate litigation in a court, 
+                both you and Airdrop agree that all claims and disputes (whether contract, tort, or otherwise), 
                 including statutory claims and disputes, arising out of or relating to the Terms or the use 
                 of the Services will be litigated exclusively in the United States District Court for the 
                 Central District of California. If, however, that court would lack original jurisdiction 
                 over the litigation, then all such claims and disputes will be litigated exclusively in 
-                the Superior Court of California, County of Los Angeles. You and Whril consent to the 
+                the Superior Court of California, County of Los Angeles. You and Airdrop consent to the 
                 personal jurisdiction of both courts.
               </p>
             </div>
@@ -889,7 +889,7 @@ const Terms = () => (
               </h1>
               <p>
                 These Terms, including the additional terms referenced in Section 4, make up 
-                the entire agreement between you and Whril, and supersede any prior agreements. 
+                the entire agreement between you and Airdrop, and supersede any prior agreements. 
                 These Terms do not create or confer any third-party beneficiary rights. 
                 If we do not enforce a provision in these Terms, it will not be considered a 
                 waiver. We reserve the right to transfer our rights under these Terms and 
@@ -905,11 +905,11 @@ const Terms = () => (
                 Contact Us
               </h1>
               <p>
-                Whril welcomes comments, questions, concerns, or suggestions. Please contact us 
-                by emailing chris @ whril.com
+                Airdrop welcomes comments, questions, concerns, or suggestions. Please contact us 
+                by emailing chris @ airdrop.is
               </p>
               <p>
-                Whril Inc. is located in the United States in Santa Monica, California 90405.
+                Airdrop Inc. is located in the United States in Santa Monica, California 90405.
               </p>
             </div>
           </div>

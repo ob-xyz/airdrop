@@ -1,5 +1,4 @@
-import { Link } from 'react-router-dom';
-import ScrollToTopBtn from './ScrollToTopBtn';
+import ScrollToTopBtn from './ScrollToTopBtn.jsx';
 
 const Footer = () => (
   <div>

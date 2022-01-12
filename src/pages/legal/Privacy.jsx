@@ -14,8 +14,8 @@ const Privacy = () => (
               </p>
 
               <p>
-                This Privacy Policy explains how Whril Inc.
-                {' (“Whril", “we” or “us”) '}
+                This Privacy Policy explains how Airdrop Inc.
+                {' (“Airdrop", “we” or “us”) '}
                 collects, uses, and discloses
                 information about you when you access or use our websites,
                 mobile application, and other online products and
@@ -103,7 +103,7 @@ const Privacy = () => (
                 </li>
                 <li>
                   <p>
-                    Whril communications: When you reach out to us (through, for example, an in-app
+                    Airdrop communications: When you reach out to us (through, for example, an in-app
                     report or email), we collect and store the contents and details of that communication,
                     including things like the date, time, method of communication, and resolution (if applicable).
                   </p>
@@ -157,7 +157,7 @@ const Privacy = () => (
                     Information Collected by Cookies and Similar Tracking Technologies:
                     We use different technologies to collect information, including cookies
                     and web beacons. Please see our Cookie Policy for more details:
-                    https://www.whril.com/cookies
+                    https://www.airdrop.is/cookies
                   </p>
                 </li>
               </ul>
@@ -256,7 +256,7 @@ const Privacy = () => (
                 </li>
                 <li>
                   <p>
-                    Communicate with you about products, services, and events offered by Whril and others, request feedback, and send news, gifts or other information we think will be of interest to you;
+                    Communicate with you about products, services, and events offered by Airdrop and others, request feedback, and send news, gifts or other information we think will be of interest to you;
                   </p>
                 </li>
                 <li>
@@ -266,7 +266,7 @@ const Privacy = () => (
                 </li>
                 <li>
                   <p>
-                    Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Whril and others. If you feel your transaction was declined in error, please contact us for assistance at support@whril.com;
+                    Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Airdrop and others. If you feel your transaction was declined in error, please contact us for assistance at support@airdrop.is;
                   </p>
                 </li>
                 <li>
@@ -309,7 +309,7 @@ const Privacy = () => (
                 </li>
                 <li>
                   <p>
-                    If we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of Whril or others;
+                    If we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of Airdrop or others;
                   </p>
                 </li>
                 <li>
@@ -319,7 +319,7 @@ const Privacy = () => (
                 </li>
                 <li>
                   <p>
-                    Between and among Whril and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; and
+                    Between and among Airdrop and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; and
                   </p>
                 </li>
                 <li>
@@ -340,7 +340,7 @@ const Privacy = () => (
                 Advertising and Analytics Services Provided by Others
               </h1>
               <p>
-                We allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by Whril and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and online services, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. If you are in the EU, please visit www.youronlinechoices.eu/. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
+                We allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by Airdrop and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and online services, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. If you are in the EU, please visit www.youronlinechoices.eu/. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
               </p>
             </div>
           </div>
@@ -351,7 +351,7 @@ const Privacy = () => (
                 Data Transfer
               </h1>
               <p>
-                Whril is based in the United States and processes information in the United States,
+                Airdrop is based in the United States and processes information in the United States,
                 which may not provide equivalent levels of data protection as your home jurisdiction.
               </p>
             </div>
@@ -366,14 +366,14 @@ const Privacy = () => (
                 Account Information
               </h2>
               <p>
-                You may update certain account information you provide to us (such as your password, name and email address) by logging into your account or contacting us through our Help Center at support@whril.com. If you wish to disable your account, please contact us at support@whril.com, but note that we retain certain information when required or permitted by law. We also retain cached or archived copies of information about you for a certain period of time.
+                You may update certain account information you provide to us (such as your password, name and email address) by logging into your account or contacting us through our Help Center at support@airdrop.is. If you wish to disable your account, please contact us at support@airdrop.is, but note that we retain certain information when required or permitted by law. We also retain cached or archived copies of information about you for a certain period of time.
               </p>
 
               <h2>
                 Promotional Communications
               </h2>
               <p>
-                You may opt out of receiving promotional emails from Whril by following the instructions in those emails or by logging into your account. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+                You may opt out of receiving promotional emails from Airdrop by following the instructions in those emails or by logging into your account. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
               </p>
               <h2>
                 Mobile Push Notifications/Alerts
@@ -468,9 +468,9 @@ const Privacy = () => (
               </h1>
               <p>
                 If you have any questions about this Privacy Policy, please contact us at:
-                <a href=""> support@whril.com </a>
+                <a href=""> support@airdrop.is </a>
                 or
-                <a href=""> legal@whril.com</a>
+                <a href=""> legal@airdrop.is</a>
                 .
               </p>
             </div>
