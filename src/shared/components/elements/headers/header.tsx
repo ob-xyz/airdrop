@@ -13,6 +13,7 @@ const Header: NextPage = () => {
                         alt="airdrop logo"
                         width={40}
                         height={50}
+                        priority={true}
                     />
                     <h1>airdrop</h1>
                     </a>

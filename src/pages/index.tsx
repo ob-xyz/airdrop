@@ -23,6 +23,7 @@ const Home: NextPage = () => {
               alt="bitcoin logo"
               width={75}
               height={75}
+              priority={true}
           />
           </div>
             <div className={styles.img}>
@@ -31,6 +32,7 @@ const Home: NextPage = () => {
               alt="ethereum logo"
               width={75}
               height={75}
+              priority={true}
           />
             </div>
             <div className={styles.img}>
@@ -39,6 +41,7 @@ const Home: NextPage = () => {
               alt="solana logo"
               width={75}
               height={75}
+              priority={true}
           />
             </div>
             <div className={styles.img}>
@@ -47,6 +50,7 @@ const Home: NextPage = () => {
               alt="avalanche logo"
               width={75}
               height={75}
+              priority={true}
           />
           </div>
             <div className={styles.img}>
@@ -55,6 +59,7 @@ const Home: NextPage = () => {
               alt="yfi logo"
               width={75}
               height={90}
+              priority={true}
           />
             </div>
             <div className={styles.img}>
@@ -63,6 +68,7 @@ const Home: NextPage = () => {
               alt="cordano logo"
               width={75}
               height={75}
+              priority={true}
           />
             </div>
             <div className={styles.img}>
@@ -71,6 +77,7 @@ const Home: NextPage = () => {
               alt="doge logo"
               width={75}
               height={75}
+              priority={true}
           />
             </div>
             <div className={styles.img}>
@@ -79,6 +86,7 @@ const Home: NextPage = () => {
                 alt="polygon logo"
                 width={75}
                 height={75}
+                priority={true}
             />
             </div>
         </div>
