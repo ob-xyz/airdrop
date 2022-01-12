@@ -2,7 +2,6 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import Header from '../shared/components/elements/headers/header'
-import Footer from '../shared/components/elements/footers/footer'
 import styles from '../styles/scss/Home.module.scss'
 
 const Home: NextPage = () => {
