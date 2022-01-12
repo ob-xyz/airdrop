@@ -1,12 +1,6 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-
-import Footer from '../../components/shared/Footer';
-import Header from '../../components/shared/Header';
-
 /* eslint-disable max-len */
 const Privacy = () => (
   <div>
-    <Header />
     <main>
       <section className="privacy-bubble-1">
         <div className="privacy-section">
@@ -485,7 +479,6 @@ const Privacy = () => (
         </div>
       </section>
     </main>
-    <Footer />
   </div>
 );
 

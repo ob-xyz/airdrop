@@ -1,14 +1,7 @@
-/* eslint-disable react/no-unescaped-entities */
-/* eslint-disable no-trailing-spaces */
-/* eslint-disable jsx-a11y/anchor-is-valid */
-
-import Footer from '../../components/shared/Footer';
-import Header from '../../components/shared/Header';
 
 /* eslint-disable max-len */
 const Terms = () => (
   <div>
-    <Header />
     <main>
       <section className="legal-bubble-1">
         <div className="legal-section">
@@ -923,7 +916,6 @@ const Terms = () => (
         </div>
       </section>
     </main>
-    <Footer />
   </div>
 );
 

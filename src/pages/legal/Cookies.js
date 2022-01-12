@@ -1,12 +1,6 @@
-/* eslint-disable react/jsx-curly-brace-presence */
-
-import Footer from '../../components/shared/Footer';
-import Header from '../../components/shared/Header';
-
 /* eslint-disable max-len */
 const Cookies = () => (
   <div>
-    <Header />
     <main>
       <section className="cookies-bubble-1">
         <div className="cookies-section">
@@ -124,7 +118,6 @@ const Cookies = () => (
         </div>
       </section>
     </main>
-    <Footer />
   </div>
 );
 
