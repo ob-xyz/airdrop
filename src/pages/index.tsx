@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         <title>Airdrop</title>
         <meta name="description" content="
           Buy from your favorite brands and 
-          creators from YouTube, TikTok, 
+          creators on YouTube, TikTok, 
           Twitter, Instagram, and more.  
         " />
         <link rel="icon" href="/favicon.ico" />
