@@ -9,7 +9,11 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Airdrop</title>
-        <meta name="description" content="Revenue streams for creators." />
+        <meta name="description" content="
+          Buy from your favorite brands and 
+          creators from YouTube, TikTok, 
+          Twitter, Instagram, and more.  
+        " />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
