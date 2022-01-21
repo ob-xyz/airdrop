@@ -11,12 +11,12 @@ const Header: NextPage = () => {
                     <Image
                         src="/assets/img/logo/airdrop-logo.png"
                         alt="airdrop logo"
-                        width={55}
-                        height={50}
+                        width={30}
+                        height={25}
                         priority={true}
                         loading='eager'
                     />
-                    <h1>airdrop</h1>
+                    <h1>Airdrop</h1>
                     </a>
                 </Link>
         </header>
