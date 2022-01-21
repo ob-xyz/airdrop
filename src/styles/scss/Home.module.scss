@@ -3,87 +3,44 @@
 '../global/scss/Colors.scss';
 
 .main {
-  padding-top: 6rem;
+  padding:6rem 1.5rem 0 1.5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   .s1{
     display: flex;
     align-items: center;
-    flex-direction: column;
-    width:35rem;
-    h2{
-      text-align: center;
-      font-family: 'bold';
-      font-weight: 900;
-      font-size: 3.5rem;
-      color:$dark-purple;
-      max-width:25rem;
-    }
-    .batchimgs{
+    .text{
+      padding-right: 2.5rem;
+      padding-bottom: 2rem;
       display: flex;
-      flex-direction: row;
-      flex-wrap: wrap;
-      min-height: 42.5vh;
-      .img{
-        position: relative;
-        margin:-.5rem 1.25rem;
-        transform-origin: 50% 50%;
-        animation: updown 10s forwards infinite;
-        @keyframes updown{
-          0% {
-            transform:  translate(2rem,6rem)  ;
-          }
-          24% {
-            transform:  translate(2rem,6rem)  ;
-          }
-          50% {
-            transform:  translate(2rem,3rem)  ;
-          }
-          74% {
-            transform:  translate(2rem,6rem)  ;
-          }
-          100% {
-            transform:  translate(2rem,6rem)  ;
-          }
-        }
+      flex-direction: column;
+      h2{
+        text-align: left;
+        font-family: 'bold';
+        font-weight: 900;
+        font-size: 3.5rem;
+        width:30rem;
       }
-      .img:nth-child(1){
-        animation: updown 8s forwards infinite;
-      }
-      .img:nth-child(2){
-        animation: updown 7s forwards infinite;
-      }
-      .img:nth-child(3){
-        animation: updown 12s forwards infinite;
-      }
-      .img:nth-child(4){
-        animation: updown 9s forwards infinite;
-    
-      }
-      .img:nth-child(5){
-        animation: updown 6s forwards infinite;
-      }
-      .img:nth-child(6){
-        animation: updown 10s forwards infinite;
-      }
-      .img:nth-child(7){
-        animation: updown 8s forwards infinite;
-      }
-      .img:nth-child(8){
-        animation: updown 13s forwards infinite;
+      h3{
+        margin:1rem 0;
+        text-align: center;
+        font-weight: 900;
+        font-size: 1.2rem;
+        animation: none;
+        color:$white;
+        background-color: $dark-green;
+        border-radius: .25rem;
+        padding:.35rem .40rem .35rem .5rem;
+        width:15rem;
       }
     }
-  }
-  .s2{
-    display: flex;
-    justify-content: center;
-    margin-top: 7rem;
-    padding:2rem 0;
-    height: 150vh;
-    width:100%;
-    background:white;
-  }
+   
+    img{
+      border-radius: 1rem;
+    }
+    }
 }
 
 @media screen 

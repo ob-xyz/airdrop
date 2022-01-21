@@ -9,86 +9,26 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Airdrop</title>
-        <meta name="description" content="A fun way to send money." />
+        <meta name="description" content="Revenue streams for creators." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
-        <h2>A fun way to send money</h2>
+          <div className={styles.text}>
+            <h2>Revenue streams for creators</h2>
+            <h3>Launching April 2022</h3>
+          </div>
         <div className={styles.batchimgs}>
           <div className={styles.img}>
           <Image
-              src="/assets/img/crypto-logos/btc-logo.png"
-              alt="bitcoin logo"
-              width={75}
-              height={75}
+              src="/assets/img/home/walking-bg.jpg"
+              alt="creators walking with guitar"
+              width={1000}
+              height={700}
               priority={true}
           />
           </div>
-            <div className={styles.img}>
-            <Image
-              src="/assets/img/crypto-logos/eth-logo.png"
-              alt="ethereum logo"
-              width={75}
-              height={75}
-              priority={true}
-          />
-            </div>
-            <div className={styles.img}>
-            <Image
-              src="/assets/img/crypto-logos/ava-logo.png"
-              alt="solana logo"
-              width={75}
-              height={75}
-              priority={true}
-          />
-            </div>
-            <div className={styles.img}>
-            <Image
-              src="/assets/img/crypto-logos/yfi-logo.png"
-              alt="avalanche logo"
-              width={75}
-              height={75}
-              priority={true}
-          />
-          </div>
-            <div className={styles.img}>
-            <Image
-              src="/assets/img/crypto-logos/doge-logo.png"
-              alt="yfi logo"
-              width={75}
-              height={90}
-              priority={true}
-          />
-            </div>
-            <div className={styles.img}>
-            <Image
-              src="/assets/img/crypto-logos/sol-logo.png"
-              alt="cordano logo"
-              width={75}
-              height={75}
-              priority={true}
-          />
-            </div>
-            <div className={styles.img}>
-            <Image
-              src="/assets/img/crypto-logos/polygon-logo.png"
-              alt="doge logo"
-              width={75}
-              height={75}
-              priority={true}
-          />
-            </div>
-            <div className={styles.img}>
-              <Image
-                src="/assets/img/crypto-logos/cordano-logo.png"
-                alt="polygon logo"
-                width={75}
-                height={75}
-                priority={true}
-            />
-            </div>
         </div>
         </div>
       </main>
