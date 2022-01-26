@@ -29,7 +29,7 @@
         font-size: 1.2rem;
         animation: none;
         color:$white;
-        background-color: $dark-green;
+        background-color: $light-blue;
         border-radius: .25rem;
         padding:.35rem .40rem .35rem .5rem;
         width:11.5rem;
@@ -42,24 +42,26 @@
     }
 }
 
-@media screen 
-  and (min-width: 25rem)
-  and (max-width: 80.75rem) { 
+@media only screen and 
+(max-width: 65rem) { 
+  .main{
+    padding:6rem 4.5rem 0 4.5rem;
     .s1{
-      h2{
-        font-size: 2rem;
+      .text{
+        h2{
+          font-size: 1.5rem;
+          width:32.5rem;
+        }
+        h3{
+          font-size: 1.2rem;
+          width:11.5rem;
+        }
       }
-      .batchimgs{
-        min-height: 45vh;
+     
+      img{
+        border-radius: 1rem;
       }
-    }
-  
-  .s2{
-    margin-top: 7rem;
-    padding:2rem 0;
-    height: 150vh;
-    width:100%;
-    background:white;
+      }
   }
-}
+  }
 
