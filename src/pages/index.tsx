@@ -10,9 +10,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Airdrop</title>
         <meta name="description" content="
-          Buy from your favorite brands and 
-          creators on YouTube, TikTok, 
-          Twitter, Instagram, and more.  
+          Discover the best products in the world.  
         " />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -20,7 +18,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h2>Powering creators everywhere</h2>
+            <h2>Only the best products</h2>
             <h3>Launching 2022</h3>
           </div>
         <div className={styles.batchimgs}>
