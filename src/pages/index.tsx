@@ -24,7 +24,7 @@ const Home: NextPage = () => {
         <div className={styles.batchimgs}>
           <div className={styles.img}>
           <Image
-              src="/assets/img/home/walking-bg.jpg"
+              src="/assets/img/home/ea.jpg"
               alt="entrepreneurs walking"
               width={1000}
               height={700}
