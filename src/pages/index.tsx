@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Airdrop</title>
         <meta name="description" content="
-          Where creators live.  
+          Where streamers live.
         " />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -18,7 +18,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h2>Where creators live.</h2>
+            <h2>Where streamers live.</h2>
             <h3>Launching 2022</h3>
           </div>
         <div className={styles.batchimgs}>
