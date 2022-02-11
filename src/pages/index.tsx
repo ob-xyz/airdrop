@@ -9,15 +9,15 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Airdrop | Home</title>
-        <meta name="description" content="Where streamers live."/>
+        <meta name="description" content="Where writers live."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h2>Where streamers live</h2>
-            <h4>Live stream about any topic</h4>
+            <h2>Where writers live</h2>
+            <h4>Create a newsletter today.</h4>
             <h3>Launching 2022</h3>
           </div>
         <div className={styles.batchimgs}>

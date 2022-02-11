@@ -12,7 +12,7 @@ const Header: NextPage = () => {
                         src="/assets/img/logo/airdrop-logo.png"
                         alt="airdrop logo"
                         width={30}
-                        height={25}
+                        height={32}
                         priority={true}
                         loading='eager'
                     />
