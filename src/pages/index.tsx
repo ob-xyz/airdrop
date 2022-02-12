@@ -8,8 +8,8 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Airdrop | Home</title>
-        <meta name="description" content="Where writers live."/>
+        <title>Airdrop | Get paid to write stories</title>
+        <meta name="description" content="Where writers tell stories."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <div className={styles.s1}>
           <div className={styles.text}>
             <h2>Where writers tell stories</h2>
-            <h4>Create your newsletter today.</h4>
+            <h4>Create a newsletter today.</h4>
             <h3>Launching 2022</h3>
           </div>
         <div className={styles.batchimgs}>
