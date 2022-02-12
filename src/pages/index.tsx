@@ -16,8 +16,8 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h2>Where writers live</h2>
-            <h4>Create a newsletter today.</h4>
+            <h2>Where writers tell stories</h2>
+            <h4>Create your newsletter today.</h4>
             <h3>Launching 2022</h3>
           </div>
         <div className={styles.batchimgs}>
