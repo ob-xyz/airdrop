@@ -8,16 +8,16 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Airdrop | Drop topics you love.</title>
-        <meta name="description" content="Start conversations about topics you love."/>
+        <title>Airdrop | Drop topics you like.</title>
+        <meta name="description" content="Start conversations about topics you like."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h2>Drop topics you love 🖤</h2>
-            <h4>Start conversations about topics you love.</h4>
+            <h2>Drop topics you like 🖤</h2>
+            <h4>Start conversations about topics you like.</h4>
             <h3>Launching 2022</h3>
           </div>
         <div className={styles.batchimgs}>
