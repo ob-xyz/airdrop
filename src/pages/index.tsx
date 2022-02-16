@@ -8,17 +8,17 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Airdrop | Drop topics you like</title>
-        <meta name="description" content="Start conversations about topics you like."/>
+        <title>Airdrop | Where wordchads converse 🗣</title>
+        <meta name="description" content="Where wordchads discuss trending topics."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h2>Drop topics you like 👍</h2>
-            <h4>Start conversations about topics you like.</h4>
-            <h3>Launching 2022</h3>
+            <h2>Where wordchads converse 🗣</h2>
+            <h3>What started as an internet meme is now a 
+                growing community of wordchads</h3>
           </div>
         <div className={styles.batchimgs}>
           <div className={styles.img}>

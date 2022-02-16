@@ -20,22 +20,17 @@
         font-family: 'bold';
         font-weight: 900;
         font-size: 4.5rem;
-        width:32.5rem;
+        width:40.5rem;
       }
       h3{
         margin:1rem 0;
         text-align: center;
         font-weight: 900;
-        font-size: 1.2rem;
-        animation: none;
+        font-size: .925rem;
         color:$white;
         background-color: $black;
         border-radius: .25rem;
-        padding:.35rem .40rem .35rem .5rem;
-        width:11.5rem;
-      }
-      h4{
-        padding-top: .25rem;
+        padding:.75rem .5rem;
       }
     }
    
@@ -56,11 +51,7 @@
           width:18.5rem;
         }
         h3{
-          font-size: .925rem;
-          width:9.5rem;
-        }
-        h4{
-         width:15rem;
+          font-size: .75rem;
         }
       }
      
