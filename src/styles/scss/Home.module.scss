@@ -3,24 +3,21 @@
 '../global/scss/Colors.scss';
 
 .main {
-  padding:6rem 3.75rem 0 3.75rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   .s1{
+    padding:6rem 0 0 6rem;
     display: flex;
     align-items: center;
     .text{
-      padding-right: 3rem;
-      padding-bottom: 2rem;
       display: flex;
       flex-direction: column;
       h2{
         font-family: 'bold';
         font-weight: 900;
         font-size: 4.5rem;
-        width:40.5rem;
+        width:31rem;
       }
       h3{
         margin:1rem 0;
@@ -31,34 +28,81 @@
         background-color: $black;
         border-radius: .25rem;
         padding:.75rem .5rem;
+        width:11rem;
       }
     }
    
-    img{
-      border-radius: 1rem;
+    video{
+      width:50rem;
     }
     }
 }
 
 @media only screen and 
-(max-width: 65rem) { 
+(max-width: 81.25rem) 
+and (min-width: 51rem) { 
   .main{
-    padding:6rem 3.5rem 0 3.5rem;
     .s1{
+      margin-top: 7rem;
       .text{
         h2{
-          font-size: 2.5rem;
-          width:18.5rem;
-        }
-        h3{
-          font-size: .75rem;
+          font-size: 3rem;
+          width:21rem;
         }
       }
-     
-      img{
-        border-radius: 1rem;
+      video{
+        width:32.5rem;
       }
       }
   }
   }
-
+  
+    @media only screen and 
+  (max-width: 51rem)
+  and (min-width: 42rem) { 
+    .main{
+      .s1{
+        margin-top: 10rem;
+        .text{
+          padding-left: 15rem;
+          h2{
+            font-size: 2.5rem;
+            width:18.5rem;
+          }
+          h3{
+            font-size: .75rem;
+            width:9.25rem;
+          }
+        }
+        video{
+          padding-right:20rem;
+          width:40rem;
+        }
+        }
+    }
+    }
+  
+    @media only screen and 
+  (max-width: 42rem){ 
+    .main{
+      .s1{
+        flex-direction: column-reverse;
+        .text{
+          padding-right: 6.5rem;
+          align-items: center;
+          text-align: center;
+          h2{
+            font-size: 2rem;
+          }
+          h3{
+            font-size: .75rem;
+            width:9.25rem;
+          }
+        }
+        video{
+          padding-right: 6.5rem;
+          width:35rem;
+        }
+        }
+    }
+    }

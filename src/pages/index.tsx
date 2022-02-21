@@ -8,27 +8,22 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Airdrop | Where wordchads converse 🗣</title>
-        <meta name="description" content="Where wordchads discuss trending topics."/>
+        <title>Airdrop</title>
+        <meta name="description" content="Where founders raise capital."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h2>Where wordchads converse 🗣</h2>
-            <h3>What started as an internet meme is now a 
-                growing community of wordchads</h3>
+            <h2>Meet the best investors</h2>
+            <h3>Raise your Series A</h3>
           </div>
         <div className={styles.batchimgs}>
           <div className={styles.img}>
-          <Image
-              src="/assets/img/home/social.webp"
-              alt="social eggs"
-              width={1000}
-              height={700}
-              priority={true}
-          />
+          <video autoPlay loop muted>
+              <source src='/assets/vid/vid.mp4' type='video/mp4' />
+            </video>
           </div>
         </div>
         </div>
