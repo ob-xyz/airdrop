@@ -15,16 +15,9 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h2>Meet the best investors</h2>
             <h3>Raise your Series A</h3>
+            <p>Airdrop is the lifeblood of founders. Inspired by Founders Fund, we believe founders are gods reinventing the world. And our tenacious work reflects this fact. If your startup has godlike growth, please consider raising your Series A on Airdrop.</p>
           </div>
-        <div className={styles.batchimgs}>
-          <div className={styles.img}>
-          <video autoPlay loop muted>
-              <source src='/assets/vid/vid.mp4' type='video/mp4' />
-            </video>
-          </div>
-        </div>
         </div>
       </main>
     </div>
