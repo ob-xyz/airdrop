@@ -4,20 +4,21 @@
 
 .main {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
+  justify-content: center;
   .s1{
-    padding:6rem 0 0 6rem;
+    margin-top: 5rem;
+    margin-left:10rem;
     display: flex;
     align-items: center;
     .text{
       display: flex;
       flex-direction: column;
+      width:30rem;
       h2{
         font-family: 'bold';
         font-weight: 900;
         font-size: 4.5rem;
-        width:31rem;
       }
       h3{
         margin:1rem 0;
@@ -31,7 +32,6 @@
         width:11rem;
       }
     }
-   
     video{
       width:50rem;
     }
@@ -43,11 +43,11 @@
 and (min-width: 51rem) { 
   .main{
     .s1{
-      margin-top: 7rem;
+      margin-left: 5rem;
       .text{
+        width:20rem;
         h2{
           font-size: 3rem;
-          width:21rem;
         }
       }
       video{
@@ -62,47 +62,65 @@ and (min-width: 51rem) {
   and (min-width: 42rem) { 
     .main{
       .s1{
-        margin-top: 10rem;
+        flex-direction: column-reverse;
+        margin-top:1rem;
+        margin-left: 0;
         .text{
-          padding-left: 15rem;
+          align-items: center;
+          text-align: center;
+          width:20rem;
           h2{
-            font-size: 2.5rem;
-            width:18.5rem;
-          }
-          h3{
-            font-size: .75rem;
-            width:9.25rem;
+            font-size: 3rem;
           }
         }
         video{
-          padding-right:20rem;
-          width:40rem;
+          width:35rem;
         }
         }
     }
     }
   
     @media only screen and 
-  (max-width: 42rem){ 
+  (max-width: 42rem)
+  and (min-width:23.125rem){ 
     .main{
       .s1{
         flex-direction: column-reverse;
+        margin-top: 2.5rem;
+        margin-left: 0rem;
         .text{
-          padding-right: 6.5rem;
           align-items: center;
           text-align: center;
+          width:25rem;
           h2{
-            font-size: 2rem;
-          }
-          h3{
-            font-size: .75rem;
-            width:9.25rem;
+            font-size: 3rem;
           }
         }
         video{
-          padding-right: 6.5rem;
-          width:35rem;
+          width:25rem;
         }
         }
     }
-    }
+}
+
+@media only screen and 
+(max-width:23.125rem){ 
+  .main{
+    .s1{
+      margin-top: 2.5rem;
+      flex-direction: column-reverse;
+      margin-left: 2.5rem;
+      .text{
+        align-items: center;
+        text-align: center;
+        width:25rem;
+        h2{
+          font-size: 3rem;
+        }
+      }
+      video{
+        width:25rem;
+      }
+      }
+  }
+}
