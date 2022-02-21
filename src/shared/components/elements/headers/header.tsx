@@ -7,7 +7,7 @@ const Header: NextPage = () => {
         <header className={styles.header}>
                 <Link href="/">
                     <a className={styles.subheader}>
-                    <h1>airdrop_</h1>
+                    <h1>airdrop</h1>
                     </a>
                 </Link>
         </header>

@@ -16,13 +16,15 @@
         align-items: center;
         padding:0 4rem;
           h1{
+            margin:1rem 0;
             text-align: center;
+            font-family: 'bold';
             font-weight: 900;
             font-size: 1.5rem;
-            animation: none;
-            color:$black;
+            color:$white;
+            background-color: $black;
             border-radius: .25rem;
-            padding:.35rem .40rem .35rem .5rem;
+            padding:.75rem 1rem;
         }
         &:hover{
           transform-origin: 50% 0;

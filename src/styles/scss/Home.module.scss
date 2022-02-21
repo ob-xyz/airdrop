@@ -6,7 +6,7 @@
   display: flex;
   justify-content: center;
   .s1{
-    margin-top: 15rem;
+    margin-top: 13.5rem;
     .text{
       display: flex;
       flex-direction: column;
@@ -18,10 +18,7 @@
         font-family: 'bold';
         font-weight: 900;
         font-size: 1.5rem;
-        color:$white;
-        background-color: $black;
-        border-radius: .25rem;
-        padding:.75rem 1.25rem;
+        color:$black;
       }
       p{
         font-size: 1.5rem;
@@ -31,17 +28,50 @@
     }
 }
 
-    @media only screen and 
-  (max-width: 43.75rem)
-  and (min-width: 0rem) { 
+@media only screen and 
+  (max-width: 45rem)
+  and (min-width: 31.25rem) { 
     .main{
       .s1{
         .text{
           p{
             font-size: 1rem;
-            width:29rem;
+            width:28rem;
           }
         }
+      }
+    }
+  }
+  @media only screen and 
+   (max-width: 31.25rem)
+   and (min-width:23.125rem) { 
+    .main{
+      .s1{
+        .text{
+          h3{
+            font-size: 1.25rem;
+          }
+          p{
+            font-size: 1rem;
+            width:20rem;
+          }
         }
+      }
     }
-    }
+  }
+  @media only screen and 
+  (max-width:23.125rem) { 
+   .main{
+     .s1{
+       .text{
+         h3{
+           font-size: 1.1rem;
+         }
+         p{
+           font-size: 1rem;
+           width:12.5rem;
+         }
+       }
+     }
+   }
+ }
