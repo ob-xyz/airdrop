@@ -19,6 +19,7 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
   user-select: none;
+  background:$white;
 }
 main {
   background-color: $white;
@@ -88,3 +89,6 @@ button {
   font-weight: 100;
 }
 
+video{
+  background-color: $white;
+}
