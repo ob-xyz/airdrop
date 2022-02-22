@@ -15,8 +15,10 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h3>The Lifeblood of Founders</h3>
-            <p>Inspired by Founders Fund, we believe founders are gods reinventing the world. And our tenacious work reflects this fact. If your startup has godlike growth, please consider raising your Series A on Airdrop.</p>
+            <h3>Lifeblood for Founders</h3>
+            <p>Airdrop is lifeblood for founders. Inspired by Founders Fund, we believe founders are like gods reinventing the world. But they can't grow an amazing team or build cool products without capital.</p>
+            <p>Our goal is to instantly airdrop capital to founders reinventing the world. We do it by partnering with the best capital allocators and building software that works. If your startup is growing like a weed, please consider raising your Series A on airdrop.</p>
+            <p>Contact chris@airdrop.is</p>
           </div>
         </div>
       </main>
