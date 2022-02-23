@@ -17,7 +17,7 @@ const Home: NextPage = () => {
           <div className={styles.text}>
               <p>Successful founders do three things right — they make a great product, hire an amazing team, and set the vision. But the best founders? They use every ounce of capital available to bet on themselves. And sometimes they win big.</p>
               <p>Our goal is to airdrop capital to founders reinventing the world. We do it by partnering with long-term capital allocators and making software that works.</p>
-              <p>If your startup is growing like a weed, please consider raising your Series A on airdrop. You can reach us by email at chris@airdrop.is</p>
+              <p>If your startup is growing like a weed, please consider raising your Series A on airdrop. You can reach us by email chris@airdrop.is</p>
           </div>
         </div>
       </main>
