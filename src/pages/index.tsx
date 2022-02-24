@@ -8,7 +8,7 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>airdrop</title>
-        <meta name="description" content="We airdrop capital to founders"/>
+        <meta name="description" content="we airdrop capital to founders"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
