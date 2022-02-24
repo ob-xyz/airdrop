@@ -15,9 +15,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-              <p>Successful founders do three things right — they make a great product, hire an amazing team, and set the vision. But the best founders? They use every ounce of capital available to bet on themselves.</p>
-              <p>Our goal is to airdrop capital to founders reinventing the world. We do it by partnering with long-term capital allocators and making software that works.</p>
-              <p>If your startup is growing like a weed, please consider raising your Series A on airdrop. You can reach us by email chris@airdrop.is</p>
+            <p>we airdrop capital to founders. that's it. that's the company.</p>
           </div>
         </div>
       </main>
