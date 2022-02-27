@@ -8,15 +8,15 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>airdrop</title>
-        <meta name="description" content="we airdrop capital to founders"/>
+        <meta name="description" content="Airdrop is where founders bet on themselves — start raising your Series A round today!"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <p>{"we airdrop capital to founders."}</p>
-            <p>{"that's it. that's the company."}</p>
+            <p>{"We airdrop capital to founders."}</p>
+            <p>{"That's it. That's the company."}</p>
           </div>
         </div>
       </main>
