@@ -17,6 +17,7 @@ const Home: NextPage = () => {
           <div className={styles.text}>
             <p>{"We airdrop capital to founders."}</p>
             <p>{"That's it. That's the company."}</p>
+            <p>{"(invite only)"}</p>
           </div>
         </div>
       </main>
