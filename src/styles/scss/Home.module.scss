@@ -6,60 +6,38 @@
   display: flex;
   justify-content: center;
   .s1{
-    margin-top: 23.5rem;
+    margin-top:17rem;
     .text{
       display: flex;
       flex-direction: column;
       align-items: center;
       text-align: center;
       h1{
-        padding-bottom: 1rem;
-      }
-      p{
-        font-size: 1.25rem;
-        background:black;
-        border-radius: .35rem;
-        color:$white;
-        padding:1rem 1rem;
-        margin:0 .5rem;
+        font-size:2rem;
+        max-width:32.5rem;
         font-weight: 900;
         font-family: medium;
-        &:hover{
-          cursor: pointer;
-          
-        }
-    }
+        border: .5rem solid #000;
+        padding:2.5rem 2.5rem;
+        border-radius: .75rem;
+      }
   }
 }
 }
 
 @media only screen and 
-  (max-width: 45rem)
-  and (min-width: 23.125rem) { 
+  (max-width: 45rem){ 
     .main{
       .s1{
         .text{
-          p{
-            font-size: 1rem;
-            padding:1.1rem 1.25rem;
+          h1{
+            font-size:1rem;
+            max-width:20rem;
+            border: .35rem solid #000;
+            padding:1.5rem 1.5rem;
           }
         }
       }
     }
   }
-  @media only screen and 
-  (max-width:23.125rem) { 
-   .main{
-     .s1{
-       margin-top: 14rem;
-       .text{
-        flex-direction: column;
-         p{
-           margin:.5rem 0;
-          font-size: .825rem;
-          padding:1rem 1rem;
-         }
-       }
-     }
-   }
- }
+ 

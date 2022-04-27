@@ -15,8 +15,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <h1>Host virtual events like a rockstar 🎸</h1>
-            <p>{"🎤 Grab the Mic"}</p>
+            <h1>Grab the mic and host virtual events like a rockstar 🎸</h1>
           </div>
         </div>
       </main>

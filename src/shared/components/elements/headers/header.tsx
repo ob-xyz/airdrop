@@ -1,4 +1,5 @@
 import type { NextPage } from 'next'
+import Image from 'next/image'
 import Link from 'next/link'
 import styles from '../../../../styles/shared/components/elements/headers/Header.module.scss'
 
@@ -7,7 +8,12 @@ const Header: NextPage = () => {
         <header className={styles.header}>
                 <Link href="/">
                     <a className={styles.subheader}>
-                    <h1>airdrop</h1>
+                    <Image
+                      src="/assets/img/logo/airdrop-logo2.png"
+                      alt="Picture of the author"
+                      width={50}
+                      height={50}
+                    />
                     </a>
                 </Link>
         </header>
