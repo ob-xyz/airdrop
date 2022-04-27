@@ -9,15 +9,18 @@
     margin-top: 23.5rem;
     .text{
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       align-items: center;
       text-align: center;
+      h1{
+        padding-bottom: 1rem;
+      }
       p{
         font-size: 1.25rem;
         background:black;
         border-radius: .35rem;
         color:$white;
-        padding:1.5rem 1.5rem;
+        padding:1rem 1rem;
         margin:0 .5rem;
         font-weight: 900;
         font-family: medium;

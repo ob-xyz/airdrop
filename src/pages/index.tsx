@@ -8,14 +8,15 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>airdrop</title>
-        <meta name="description" content="Instantly host your virtual event"/>
+        <meta name="description" content="Host virtual events like a rockstar 🎸"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.text}>
-            <p>{"Host A Virtual Event"}</p>
+            <h1>Host virtual events like a rockstar 🎸</h1>
+            <p>{"🎤 Grab the Mic"}</p>
           </div>
         </div>
       </main>
