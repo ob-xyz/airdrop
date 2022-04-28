@@ -11,8 +11,8 @@ const Header: NextPage = () => {
                     <Image
                       src="/assets/img/logo/airdrop-logo2.png"
                       alt="Picture of the author"
-                      width={50}
-                      height={50}
+                      width={42.5}
+                      height={37.5}
                     />
                     </a>
                 </Link>
