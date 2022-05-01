@@ -7,19 +7,17 @@
   justify-content: center;
   .s1{
     margin-top:17rem;
-    .text{
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+    .rainbowbox{
       text-align: center;
+      border: .45rem solid transparent;
+      border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #3ef58d 50%, #2c90fc 75%, #b827fc 100%);
+      border-image-slice: 1;
+      max-width:35rem;
+      padding:2.5rem 2.5rem;
       h1{
         font-size:2rem;
-        max-width:35rem;
         font-weight: 900;
         font-family: medium;
-        border: .5rem solid #000;
-        padding:2.5rem 2.5rem;
-        border-radius: .75rem;
       }
   }
 }
@@ -29,12 +27,14 @@
   (max-width: 45rem){ 
     .main{
       .s1{
-        .text{
+        .rainbowbox {
+          border: .35rem solid transparent;
+          border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+          border-image-slice: 1;
+          max-width:21rem;
+          padding:1.5rem 1.5rem;
           h1{
             font-size:1rem;
-            max-width:20rem;
-            border: .35rem solid #000;
-            padding:1.5rem 1.5rem;
           }
         }
       }

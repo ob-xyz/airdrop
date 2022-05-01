@@ -9,10 +9,10 @@ const Header: NextPage = () => {
                 <Link href="/">
                     <a className={styles.subheader}>
                     <Image
-                      src="/assets/img/logo/airdrop-logo2.png"
+                      src="/assets/img/logo/airdrop-logo.png"
                       alt="Picture of the author"
-                      width={42.5}
-                      height={37.5}
+                      width={50}
+                      height={40}
                     />
                     </a>
                 </Link>
