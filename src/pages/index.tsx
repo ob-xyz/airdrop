@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.rainbowbox}>
-            <h1>Grab the mic and host hybrid events like a rockstar 🎸</h1>
+            <h1>Host hybrid events like a rockstar 🎸</h1>
           </div>
         </div>
       </main>
