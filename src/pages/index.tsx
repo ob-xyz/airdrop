@@ -7,15 +7,15 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>airdrop</title>
-        <meta name="description" content="An affordable way for businesses to broadcast trade shows, conferences, and live events — online."/>
+        <title>Airdrop: Company Events, </title>
+        <meta name="description" content="Airdrop is where companies host virtual events like rockstars. Broadcast trade shows, conferences, and company events — online."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.rainbowbox}>
-            <h1>Host hybrid events like a rockstar 🎸</h1>
+            <h1>Airdrop is where companies host virtual events like rockstars 🎸</h1>
           </div>
         </div>
       </main>
