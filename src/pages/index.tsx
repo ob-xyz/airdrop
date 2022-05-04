@@ -15,7 +15,9 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.rainbowbox}>
-            <h1>Airdrop is where companies host virtual events like rockstars 🎸</h1>
+            <h1>Host virtual events like a rockstar 🎸</h1>
+            <p>Want Beta Access for $1,000?</p>
+            <p>Email chris@airdrop.is</p>
           </div>
         </div>
       </main>
