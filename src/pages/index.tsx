@@ -8,7 +8,7 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Airdrop</title>
-        <meta name="description" content="Airdrop is where companies host virtual events like rockstars. Broadcast trade shows, conferences, and company events — online."/>
+        <meta name="description" content="Create online events for your company — stream trade shows, conferences, presentations, and more."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
