@@ -13,7 +13,7 @@ body {
   margin: 0;
   width:100%;
   min-height: 100vh;
-  background:$white;
+  background:$black;
 }
 body {
   overflow-y: scroll;
@@ -21,7 +21,7 @@ body {
   user-select: none;
 }
 main {
-  background: $white;
+  background: $black;
 }
 img {
   display: block;
@@ -40,7 +40,7 @@ h1 {
   font-size: 1.25rem;
   font-family: medium;
   font-weight: 100;
-  color: $black;
+  color: $white;
   text-decoration: none;
   text-shadow: none;
 }
@@ -59,14 +59,14 @@ h4,
 h5,
 h6 {
   font-family: 'medium';
-  color: $black;
+  color: $white;
   text-shadow: none;
 }
 
 p {
   font-family: 'book';
   font-size: 1.1rem;
-  color: $black;
+  color: $white;
   text-shadow: none;
 }
 
@@ -79,7 +79,7 @@ ol {
 span {
   font-family: bold;
   font-size: 4rem;
-  color: $dark-purple;
+  color: $white;
 }
 
 button {
