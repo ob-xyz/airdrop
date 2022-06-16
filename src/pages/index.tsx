@@ -7,16 +7,16 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Airdrop.is - The Best Sports Betting Platform</title>
-        <meta name="description" content="Airdrop is the ultimate sports betting experience. Use Apple Pay, Google Pay and more to deposit bitcoin and place your bet."/>
+        <title>Airdrop.is - Host Hybrid Events</title>
+        <meta name="description" content="Airdrop is the ultimate event experience—online. Instantly stream company events that are fun for your online attendees."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.rainbowbox}>
-            <h1>Airdrop</h1>
-            <p>Bet on what you know, and love.</p>
+            <h1>Airdrop.is</h1>
+            <p>Reimagining events. Everywhere.</p>
           </div>
         </div>
       </main>
