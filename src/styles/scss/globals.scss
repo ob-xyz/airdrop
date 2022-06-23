@@ -13,7 +13,7 @@ body {
   margin: 0;
   width:100%;
   min-height: 100vh;
-  background:$black;
+  background:$white;
 }
 body {
   overflow-y: scroll;
@@ -21,7 +21,7 @@ body {
   user-select: none;
 }
 main {
-  background: $black;
+  background: $white;
 }
 img {
   display: block;
@@ -40,7 +40,7 @@ h1 {
   font-size: 1.25rem;
   font-family: medium;
   font-weight: 100;
-  color: rgb(120, 120, 120);
+  color: rgb(0, 0, 0);
   text-decoration: none;
   text-shadow: none;
 }
