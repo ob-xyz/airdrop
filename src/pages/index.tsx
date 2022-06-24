@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
           <div className={styles.rainbowbox}>
-            <h1>Brands that match your lifestyle</h1>
+            <h1>Brands That Match Your Lifestyle</h1>
           </div>
         </div>
       </main>
