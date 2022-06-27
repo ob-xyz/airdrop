@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Airdrop.is — Live Your Best Lifestyle</title>
+        <title>Airdrop.is - Live Your Best Lifestyle</title>
         <meta name="description" content="Find products that really match your lifestyle."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
