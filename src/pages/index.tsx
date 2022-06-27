@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Brands That Match Your Lifestyle | Airdrop</title>
+        <title>Airdrop.is | Amazing Brands That Match Your Lifestyle</title>
         <meta name="description" content="Discover brands that match your lifestyle. Tesla Cars. Peloton Bikes. SHEIN Clothes. And MORE!"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>

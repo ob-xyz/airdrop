@@ -8,7 +8,7 @@ const Header: NextPage = () => {
         <header className={styles.header}>
                 <Link href="/">
                     <a className={styles.subheader}>
-                    <h1></h1>
+                    <h1>A I R D R O P</h1>
                     </a>
                 </Link>
         </header>
