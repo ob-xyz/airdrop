@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.s1}>
             <h1>Live your best lifestyle</h1>
-            <p>Shop high quality Shopify brands.</p>
+            <p>Discover Shopify brands that match your lifestyle.</p>
         </div>
       </main>
     </div>
