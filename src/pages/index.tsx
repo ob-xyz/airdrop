@@ -8,14 +8,14 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Airdrop - Live a life of luxury</title>
-        <meta name="description" content="Airdrop is a marketplace of cool Shopify brands, products, and trends."/>
+        <meta name="description" content="Airdrop is an online retailer of the best brands, products, and collections. Shop for Fashion, Cookwear, Jewelry & more. Try Airdrop for free."/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.s1}>
             <h1>Live a life of luxury</h1>
-            <p>Discover cool brands that match your lifestyle</p>
+            <p>Shop the best Shopify brands.</p>
         </div>
       </main>
     </div>
