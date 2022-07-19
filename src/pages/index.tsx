@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Airdrop - Big Condos for Digital Nomads</title>
+        <title>Airdrop - Big Homes for Digital Nomads</title>
         <meta name="description" content="Work remote. Stay anywhere. Book a modernly furnished condo that includes cleaning service, laundry service, WiFi,  and more. Book your airdrop today!"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
